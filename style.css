@@ -43,12 +43,12 @@ button i {
 
 #playButton{
     background-color: green;
-    color: azure;
+    color: rgb(239, 241, 241);
 
 }
 
 #pause{
-    background-color: orange;
+    background-color: rgb(175, 204, 12);
 
 }
 
